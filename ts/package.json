@@ -15,7 +15,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "command-line-args": "^5.2.1",
-    "memoizee": "^0.4.15",
+    "memoizee": "^0.4.16",
     "psl": "^1.9.0",
     "structured-headers": "^1.0.1"
   },
