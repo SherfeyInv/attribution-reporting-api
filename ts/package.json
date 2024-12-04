@@ -16,7 +16,7 @@
   "dependencies": {
     "command-line-args": "^5.2.1",
     "memoizee": "^0.4.15",
-    "psl": "^1.9.0",
+    "psl": "^1.10.0",
     "structured-headers": "^1.0.1"
   },
   "devDependencies": {
